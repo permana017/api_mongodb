@@ -1,6 +1,6 @@
 ## PazzPay-server
 
-This is a ExpressJs-based API for [frontend project](https://github.com/permana017/web_hiring_fazztrack). It uses PostgreSQL as its database
+This is a ExpressJs-based API for [frontend project](https://github.com/permana017/web_hiring_fazztrack). It uses mongoDB as its database
 
 ## Getting started
 
