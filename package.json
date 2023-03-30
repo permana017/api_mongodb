@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "first api with mongoDB",
   "main": "index.js",
+  "engines": {
+    "node": "14.x"
+  },
   "scripts": {
     "start": "nodemon index.js"
   },
