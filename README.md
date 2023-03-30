@@ -1,4 +1,4 @@
-## PazzPay-server
+## MongoDb Server
 
 This is a ExpressJs-based API for [frontend project](https://github.com/permana017/web_hiring_fazztrack). It uses mongoDB as its database
 
